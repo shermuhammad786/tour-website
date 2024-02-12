@@ -1,0 +1,14 @@
+.headerDiv {
+    width: 100%;
+    height: 150px;
+    background-color: #F19720;
+    color: #6f4109;
+    /*  */
+}
+
+.headerSec2 {
+    height: 80px;
+    background-color: #DF6B1B;
+    gap: 10px;
+
+}
